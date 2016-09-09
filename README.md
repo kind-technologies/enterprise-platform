@@ -1,2 +1,2 @@
-# enterprise-platform
+# Enterprise Platform
 Platform for enterprise application development.
